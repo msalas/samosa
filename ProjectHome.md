@@ -1,0 +1,1 @@
+Studying exercise to build small application using RMI, JDBC and Swing.
